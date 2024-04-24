@@ -1,6 +1,6 @@
 ---
 title: "YOUR-TITLE"
-date: YYYY-MM-DD
+date: 2021-01-01
 ---
 
 好了好了
